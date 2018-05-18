@@ -1,6 +1,8 @@
 # travis-experiment
 
-> A Vue.js project
+[![Build Status](https://travis-ci.org/dongkuo/travis-experiment.svg?branch=master)](https://travis-ci.org/dongkuo/travis-experiment)
+
+> A Vue.js project for testing travis
 
 ## Build Setup
 
